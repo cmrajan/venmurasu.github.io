@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:89eceaf7-4d75-4896-933f-143940020fbe" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>07-இந்திரநீலம்</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>07-இந்திரநீலம்</text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>நூல் ஒன்று : மலைமுடித்தனிமை - 1</text>
+      </navLabel>
+      <content src="ch001.xhtml#நல-ஒனற-மலமடததனம---1" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>நூல் ஒன்று : மலைமுடித்தனிமை - 2</text>
+      </navLabel>
+      <content src="ch002.xhtml#நல-ஒனற-மலமடததனம---2" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>நூல் ஒன்று : மலைமுடித்தனிமை - 3</text>
+      </navLabel>
+      <content src="ch003.xhtml#நல-ஒனற-மலமடததனம---3" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>நூல் ஒன்று : மலைமுடித்தனிமை - 4</text>
+      </navLabel>
+      <content src="ch004.xhtml#நல-ஒனற-மலமடததனம---4" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>நூல் ஒன்று : மலைமுடித்தனிமை - 5</text>
+      </navLabel>
+      <content src="ch005.xhtml#நல-ஒனற-மலமடததனம---5" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>பகுதி ஒன்று : மலைமுடித்தனிமை - 6</text>
+      </navLabel>
+      <content src="ch006.xhtml#பகதஒனற-மலமடததனம---6" />
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>பகுதி இரண்டு : மழைத்துளிகள் - 1</text>
+      </navLabel>
+      <content src="ch007.xhtml#பகத-இரணட-மழததளகள---1" />
+    </navPoint>
+    <navPoint id="navPoint-8">
+      <navLabel>
+        <text>பகுதி இரண்டு : மழைத்துளிகள் - 2</text>
+      </navLabel>
+      <content src="ch008.xhtml#பகத-இரணட-மழததளகள---2" />
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>பகுதி இரண்டு : மழைத்துளிகள் - 3</text>
+      </navLabel>
+      <content src="ch009.xhtml#பகத-இரணட-மழததளகள---3" />
+    </navPoint>
+    <navPoint id="navPoint-10">
+      <navLabel>
+        <text>பகுதி இரண்டு : மழைத்துளிகள் - 4</text>
+      </navLabel>
+      <content src="ch010.xhtml#பகத-இரணட-மழததளகள---4" />
+    </navPoint>
+    <navPoint id="navPoint-11">
+      <navLabel>
+        <text>பகுதி இரண்டு : மழைத்துளிகள் - 5</text>
+      </navLabel>
+      <content src="ch011.xhtml#பகத-இரணட-மழததளகள---5" />
+    </navPoint>
+    <navPoint id="navPoint-12">
+      <navLabel>
+        <text>பகுதி மூன்று : வான்தோய் வாயில் - 1</text>
+      </navLabel>
+      <content src="ch012.xhtml#பகத-மனற-வனதய-வயல---1" />
+    </navPoint>
+    <navPoint id="navPoint-13">
+      <navLabel>
+        <text>பகுதி மூன்று : வான்தோய் வாயில் - 2</text>
+      </navLabel>
+      <content src="ch013.xhtml#பகத-மனற-வனதய-வயல---2" />
+    </navPoint>
+    <navPoint id="navPoint-14">
+      <navLabel>
+        <text>பகுதி மூன்று : வான்தோய் வாயில் - 3</text>
+      </navLabel>
+      <content src="ch014.xhtml#பகத-மனற-வனதய-வயல---3" />
+    </navPoint>
+    <navPoint id="navPoint-15">
+      <navLabel>
+        <text>பகுதி மூன்று : வான்தோய் வாயில் - 4</text>
+      </navLabel>
+      <content src="ch015.xhtml#பகத-மனற-வனதய-வயல---4" />
+    </navPoint>
+    <navPoint id="navPoint-16">
+      <navLabel>
+        <text>பகுதி மூன்று : வான்தோய் வாயில் - 5</text>
+      </navLabel>
+      <content src="ch016.xhtml#பகத-மனற-வனதய-வயல---5" />
+    </navPoint>
+    <navPoint id="navPoint-17">
+      <navLabel>
+        <text>பகுதி நான்கு : எழுமுகம் - 1</text>
+      </navLabel>
+      <content src="ch017.xhtml#பகத-நனக-எழமகம---1" />
+    </navPoint>
+    <navPoint id="navPoint-18">
+      <navLabel>
+        <text>பகுதி நான்கு : எழுமுகம் - 2</text>
+      </navLabel>
+      <content src="ch018.xhtml#பகத-நனக-எழமகம---2" />
+    </navPoint>
+    <navPoint id="navPoint-19">
+      <navLabel>
+        <text>பகுதி நான்கு : எழுமுகம் - 3</text>
+      </navLabel>
+      <content src="ch019.xhtml#பகத-நனக-எழமகம---3" />
+    </navPoint>
+    <navPoint id="navPoint-20">
+      <navLabel>
+        <text>பகுதி ஐந்து : கதிர்விளையாடல் - 1</text>
+      </navLabel>
+      <content src="ch020.xhtml#பகத-ஐநத-கதரவளயடல---1" />
+    </navPoint>
+    <navPoint id="navPoint-21">
+      <navLabel>
+        <text>பகுதி ஐந்து : கதிர்விளையாடல் - 2</text>
+      </navLabel>
+      <content src="ch021.xhtml#பகத-ஐநத-கதரவளயடல---2" />
+    </navPoint>
+    <navPoint id="navPoint-22">
+      <navLabel>
+        <text>பகுதி ஐந்து : கதிர்விளையாடல் - 3</text>
+      </navLabel>
+      <content src="ch022.xhtml#பகத-ஐநத-கதரவளயடல---3" />
+    </navPoint>
+    <navPoint id="navPoint-23">
+      <navLabel>
+        <text>பகுதி ஐந்து : கதிர்விளையாடல் - 4</text>
+      </navLabel>
+      <content src="ch023.xhtml#பகத-ஐநத-கதரவளயடல---4" />
+    </navPoint>
+    <navPoint id="navPoint-24">
+      <navLabel>
+        <text>பகுதி ஐந்து : கதிர்விளையாடல் - 5</text>
+      </navLabel>
+      <content src="ch024.xhtml#பகத-ஐநத-கதரவளயடல---5" />
+    </navPoint>
+    <navPoint id="navPoint-25">
+      <navLabel>
+        <text>பகுதி ஐந்து : கதிர்விளையாடல் - 6</text>
+      </navLabel>
+      <content src="ch025.xhtml#பகத-ஐநத-கதரவளயடல---6" />
+    </navPoint>
+    <navPoint id="navPoint-26">
+      <navLabel>
+        <text>பகுதி ஐந்து : கதிர்விளையாடல் - 7</text>
+      </navLabel>
+      <content src="ch026.xhtml#பகத-ஐநத-கதரவளயடல---7" />
+    </navPoint>
+    <navPoint id="navPoint-27">
+      <navLabel>
+        <text>பகுதி ஐந்து : கதிர்விளையாடல் – 8</text>
+      </navLabel>
+      <content src="ch027.xhtml#பகத-ஐநத-கதரவளயடல-8" />
+    </navPoint>
+    <navPoint id="navPoint-28">
+      <navLabel>
+        <text>பகுதி ஆறு : மணிமருள் மலர் - 1</text>
+      </navLabel>
+      <content src="ch028.xhtml#பகத-ஆற-மணமரள-மலர---1" />
+    </navPoint>
+    <navPoint id="navPoint-29">
+      <navLabel>
+        <text>பகுதி ஆறு : மணிமருள் மலர் - 2</text>
+      </navLabel>
+      <content src="ch029.xhtml#பகதஆறமணமரளமலர--2" />
+    </navPoint>
+    <navPoint id="navPoint-30">
+      <navLabel>
+        <text>பகுதி ஆறு : மணிமருள் மலர் - 3</text>
+      </navLabel>
+      <content src="ch030.xhtml#பகத-ஆற-மணமரள-மலர---3" />
+    </navPoint>
+    <navPoint id="navPoint-31">
+      <navLabel>
+        <text>பகுதி ஆறு : மணிமருள் மலர் - 4</text>
+      </navLabel>
+      <content src="ch031.xhtml#பகத-ஆற-மணமரள-மலர---4" />
+    </navPoint>
+    <navPoint id="navPoint-32">
+      <navLabel>
+        <text>பகுதி ஆறு : மணிமருள் மலர் - 5</text>
+      </navLabel>
+      <content src="ch032.xhtml#பகத-ஆற-மணமரள-மலர---5" />
+    </navPoint>
+    <navPoint id="navPoint-33">
+      <navLabel>
+        <text>பகுதி ஆறு : மணிமருள் மலர் - 6</text>
+      </navLabel>
+      <content src="ch033.xhtml#பகத-ஆற-மணமரள-மலர---6" />
+    </navPoint>
+    <navPoint id="navPoint-34">
+      <navLabel>
+        <text>பகுதி ஆறு : மணிமருள் மலர் - 7</text>
+      </navLabel>
+      <content src="ch034.xhtml#பகத-ஆற-மணமரள-மலர---7" />
+    </navPoint>
+    <navPoint id="navPoint-35">
+      <navLabel>
+        <text>பகுதி ஏழு : ஒளி உண்ணும் குருதி- 1</text>
+      </navLabel>
+      <content src="ch035.xhtml#பகத-ஏழ-ஒள-உணணம-கரத--1" />
+    </navPoint>
+    <navPoint id="navPoint-36">
+      <navLabel>
+        <text>பகுதி ஏழு : ஒளி உண்ணும் குருதி - 2</text>
+      </navLabel>
+      <content src="ch036.xhtml#பகத-ஏழ-ஒள-உணணம-கரத---2" />
+    </navPoint>
+    <navPoint id="navPoint-37">
+      <navLabel>
+        <text>பகுதி ஏழு : ஒளி உண்ணும் குருதி - 3</text>
+      </navLabel>
+      <content src="ch037.xhtml#பகத-ஏழ-ஒள-உணணம-கரத---3" />
+    </navPoint>
+    <navPoint id="navPoint-38">
+      <navLabel>
+        <text>பகுதி ஏழு : ஒளி உண்ணும் குருதி - 4</text>
+      </navLabel>
+      <content src="ch038.xhtml#பகத-ஏழ-ஒள-உணணம-கரத---4" />
+    </navPoint>
+    <navPoint id="navPoint-39">
+      <navLabel>
+        <text>பகுதி ஏழு : ஒளி உண்ணும் குருதி - 5</text>
+      </navLabel>
+      <content src="ch039.xhtml#பகத-ஏழ-ஒள-உணணம-கரத---5" />
+    </navPoint>
+    <navPoint id="navPoint-40">
+      <navLabel>
+        <text>பகுதி ஏழு : ஒளி உண்ணும் குருதி – 6</text>
+      </navLabel>
+      <content src="ch040.xhtml#பகதஏழஒளஉணணமகரத-6" />
+    </navPoint>
+    <navPoint id="navPoint-41">
+      <navLabel>
+        <text>பகுதி ஏழு : ஒளி உண்ணும் குருதி - 7</text>
+      </navLabel>
+      <content src="ch041.xhtml#பகத-ஏழ-ஒள-உணணம-கரத---7" />
+    </navPoint>
+    <navPoint id="navPoint-42">
+      <navLabel>
+        <text>பகுதி ஏழு : ஒளி உண்ணும் குருதி - 8</text>
+      </navLabel>
+      <content src="ch042.xhtml#பகத-ஏழ-ஒள-உணணம-கரத---8" />
+    </navPoint>
+    <navPoint id="navPoint-43">
+      <navLabel>
+        <text>பகுதி எட்டு : குருதியும் காந்தளும் - 1</text>
+      </navLabel>
+      <content src="ch043.xhtml#பகத-எடட-கரதயம-கநதளம---1" />
+    </navPoint>
+    <navPoint id="navPoint-44">
+      <navLabel>
+        <text>பகுதி எட்டு : குருதியும் காந்தளும் - 2</text>
+      </navLabel>
+      <content src="ch044.xhtml#பகத-எடட-கரதயம-கநதளம---2" />
+    </navPoint>
+    <navPoint id="navPoint-45">
+      <navLabel>
+        <text>பகுதி எட்டு : குருதியும் காந்தளும் - 3</text>
+      </navLabel>
+      <content src="ch045.xhtml#பகத-எடட-கரதயம-கநதளம---3" />
+    </navPoint>
+    <navPoint id="navPoint-46">
+      <navLabel>
+        <text>பகுதி எட்டு : குருதியும் காந்தளும் – 4</text>
+      </navLabel>
+      <content src="ch046.xhtml#பகத-எடட-கரதயம-கநதளம-4" />
+    </navPoint>
+    <navPoint id="navPoint-47">
+      <navLabel>
+        <text>பகுதி எட்டு : காந்தளும் குருதியும் - 5</text>
+      </navLabel>
+      <content src="ch047.xhtml#பகத-எடட-கநதளம-கரதயம---5" />
+    </navPoint>
+    <navPoint id="navPoint-48">
+      <navLabel>
+        <text>பகுதி எட்டு : குருதியும் காந்தளும் - 6</text>
+      </navLabel>
+      <content src="ch048.xhtml#பகத-எடட-கரதயம-கநதளம---6" />
+    </navPoint>
+    <navPoint id="navPoint-49">
+      <navLabel>
+        <text>பகுதி எட்டு : குருதியும் காந்தளும் - 7</text>
+      </navLabel>
+      <content src="ch049.xhtml#பகத-எடட-கரதயம-கநதளம---7" />
+    </navPoint>
+    <navPoint id="navPoint-50">
+      <navLabel>
+        <text>பகுதி ஒன்பது : அஞ்சிறை அன்றில் - 1</text>
+      </navLabel>
+      <content src="ch050.xhtml#பகத-ஒனபத-அஞசற-அனறல---1" />
+    </navPoint>
+    <navPoint id="navPoint-51">
+      <navLabel>
+        <text>பகுதி ஒன்பது : அஞ்சிறை அன்றில் - 2</text>
+      </navLabel>
+      <content src="ch051.xhtml#பகத-ஒனபத-அஞசற-அனறல---2" />
+    </navPoint>
+    <navPoint id="navPoint-52">
+      <navLabel>
+        <text>பகுதி ஒன்பது : அஞ்சிறை அன்றில் - 3</text>
+      </navLabel>
+      <content src="ch052.xhtml#பகத-ஒனபத-அஞசற-அனறல---3" />
+    </navPoint>
+    <navPoint id="navPoint-53">
+      <navLabel>
+        <text>பகுதி ஒன்பது : அஞ்சிறை அன்றில் - 4</text>
+      </navLabel>
+      <content src="ch053.xhtml#பகத-ஒனபத-அஞசற-அனறல---4" />
+    </navPoint>
+    <navPoint id="navPoint-54">
+      <navLabel>
+        <text>பகுதி ஒன்பது : அஞ்சிறை அன்றில் - 5</text>
+      </navLabel>
+      <content src="ch054.xhtml#பகத-ஒனபத-அஞசற-அனறல---5" />
+    </navPoint>
+    <navPoint id="navPoint-55">
+      <navLabel>
+        <text>பகுதி ஒன்பது : அஞ்சிறை அன்றில் - 6</text>
+      </navLabel>
+      <content src="ch055.xhtml#பகத-ஒனபத-அஞசற-அனறல---6" />
+    </navPoint>
+    <navPoint id="navPoint-56">
+      <navLabel>
+        <text>பகுதி பத்து : கதிர்முகம் - 1</text>
+      </navLabel>
+      <content src="ch056.xhtml#பகத-பதத-கதரமகம---1" />
+    </navPoint>
+    <navPoint id="navPoint-57">
+      <navLabel>
+        <text>பகுதி பத்து : கதிர்முகம் - 2</text>
+      </navLabel>
+      <content src="ch057.xhtml#பகத-பதத-கதரமகம---2" />
+    </navPoint>
+    <navPoint id="navPoint-58">
+      <navLabel>
+        <text>பகுதி பத்து : கதிர்முகம் - 3</text>
+      </navLabel>
+      <content src="ch058.xhtml#பகத-பதத-கதரமகம---3" />
+    </navPoint>
+    <navPoint id="navPoint-59">
+      <navLabel>
+        <text>பகுதி பத்து : கதிர்முகம் - 4</text>
+      </navLabel>
+      <content src="ch059.xhtml#பகத-பதத-கதரமகம---4" />
+    </navPoint>
+    <navPoint id="navPoint-60">
+      <navLabel>
+        <text>பகுதி பத்து : கதிர்முகம் - 5</text>
+      </navLabel>
+      <content src="ch060.xhtml#பகத-பதத-கதரமகம---5" />
+    </navPoint>
+    <navPoint id="navPoint-61">
+      <navLabel>
+        <text>பகுதி பத்து : கதிர்முகம் - 6</text>
+      </navLabel>
+      <content src="ch061.xhtml#பகத-பதத-கதரமகம---6" />
+    </navPoint>
+    <navPoint id="navPoint-62">
+      <navLabel>
+        <text>பகுதி பத்து : கதிர்முகம் - 7</text>
+      </navLabel>
+      <content src="ch062.xhtml#பகத-பதத-கதரமகம---7" />
+    </navPoint>
+    <navPoint id="navPoint-63">
+      <navLabel>
+        <text>பகுதி பத்து : கதிர்முகம் - 8</text>
+      </navLabel>
+      <content src="ch063.xhtml#பகத-பதத-கதரமகம---8" />
+    </navPoint>
+    <navPoint id="navPoint-64">
+      <navLabel>
+        <text>பகுதி பத்து : கதிர்முகம் – 9</text>
+      </navLabel>
+      <content src="ch064.xhtml#பகத-பதத-கதரமகம-9" />
+    </navPoint>
+    <navPoint id="navPoint-65">
+      <navLabel>
+        <text>பகுதி பதினொன்று : எண்முனைக் களம் - 1</text>
+      </navLabel>
+      <content src="ch065.xhtml#பகத-பதனனற-எணமனக-களம---1" />
+    </navPoint>
+    <navPoint id="navPoint-66">
+      <navLabel>
+        <text>பகுதி பதினொன்று : எண்முனைக் களம் - 1</text>
+      </navLabel>
+      <content src="ch066.xhtml#பகத-பதனனற-எணமனக-களம---1-1" />
+    </navPoint>
+    <navPoint id="navPoint-67">
+      <navLabel>
+        <text>பகுதி பதினொன்று : எண்முனைக் களம் - 2</text>
+      </navLabel>
+      <content src="ch067.xhtml#பகத-பதனனற-எணமனக-களம---2" />
+    </navPoint>
+    <navPoint id="navPoint-68">
+      <navLabel>
+        <text>பகுதி பதினொன்று : எண்முனைக் களம் - 3</text>
+      </navLabel>
+      <content src="ch068.xhtml#பகத-பதனனற-எணமனக-களம---3" />
+    </navPoint>
+    <navPoint id="navPoint-69">
+      <navLabel>
+        <text>பகுதி பதினொன்று : எண்முனைக் களம் - 4</text>
+      </navLabel>
+      <content src="ch069.xhtml#பகத-பதனனற-எணமனக-களம---4" />
+    </navPoint>
+    <navPoint id="navPoint-70">
+      <navLabel>
+        <text>பகுதி பதினொன்று : எண்முனைக் களம் - 5</text>
+      </navLabel>
+      <content src="ch070.xhtml#பகத-பதனனற-எணமனக-களம---5" />
+    </navPoint>
+    <navPoint id="navPoint-71">
+      <navLabel>
+        <text>பகுதி பதினொன்று : எண்முனைக் களம் - 6</text>
+      </navLabel>
+      <content src="ch071.xhtml#பகத-பதனனற-எணமனக-களம---6" />
+    </navPoint>
+    <navPoint id="navPoint-72">
+      <navLabel>
+        <text>பகுதி பதினொன்று : எண்முனைக் களம் - 7</text>
+      </navLabel>
+      <content src="ch072.xhtml#பகத-பதனனற-எணமனக-களம---7" />
+    </navPoint>
+    <navPoint id="navPoint-73">
+      <navLabel>
+        <text>பகுதி பதினொன்று : எண்முனைக் களம் - 8</text>
+      </navLabel>
+      <content src="ch073.xhtml#பகத-பதனனற-எணமனக-களம---8" />
+    </navPoint>
+    <navPoint id="navPoint-74">
+      <navLabel>
+        <text>பகுதி பதினொன்று : எண்முனைக் களம் - 9</text>
+      </navLabel>
+      <content src="ch074.xhtml#பகத-பதனனற-எணமனக-களம---9" />
+    </navPoint>
+    <navPoint id="navPoint-75">
+      <navLabel>
+        <text>பகுதி பதினொன்று : எண்முனைக் களம் - 10</text>
+      </navLabel>
+      <content src="ch075.xhtml#பகத-பதனனற-எணமனக-களம---10" />
+    </navPoint>
+    <navPoint id="navPoint-76">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு : இமையாநீலம் - 1</text>
+      </navLabel>
+      <content src="ch076.xhtml#பகதபனனரணட-இமயநலம---1" />
+    </navPoint>
+    <navPoint id="navPoint-77">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு : இமையாநீலம் – 2</text>
+      </navLabel>
+      <content src="ch077.xhtml#பகத-பனனரணட-இமயநலம-2" />
+    </navPoint>
+    <navPoint id="navPoint-78">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு : இமையாநீலம் - 3</text>
+      </navLabel>
+      <content src="ch078.xhtml#பகத-பனனரணட-இமயநலம---3" />
+    </navPoint>
+    <navPoint id="navPoint-79">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு : இமையாநீலம் - 4</text>
+      </navLabel>
+      <content src="ch079.xhtml#பகத-பனனரணட-இமயநலம---4" />
+    </navPoint>
+    <navPoint id="navPoint-80">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு : இமையாநீலம் - 5</text>
+      </navLabel>
+      <content src="ch080.xhtml#பகத-பனனரணட-இமயநலம---5" />
+    </navPoint>
+    <navPoint id="navPoint-81">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு : இமையாநீலம் - 6</text>
+      </navLabel>
+      <content src="ch081.xhtml#பகத-பனனரணட-இமயநலம---6" />
+    </navPoint>
+    <navPoint id="navPoint-82">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு : இமையாநீலம் - 7</text>
+      </navLabel>
+      <content src="ch082.xhtml#பகத-பனனரணட-இமயநலம---7" />
+    </navPoint>
+    <navPoint id="navPoint-83">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு : இமையாநீலம் - 8</text>
+      </navLabel>
+      <content src="ch083.xhtml#பகத-பனனரணட-இமயநலம---8" />
+    </navPoint>
+    <navPoint id="navPoint-84">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு : இமையாநீலம் - 9</text>
+      </navLabel>
+      <content src="ch084.xhtml#பகத-பனனரணட-இமயநலம---9" />
+    </navPoint>
+    <navPoint id="navPoint-85">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு : இமையாநீலம் - 10</text>
+      </navLabel>
+      <content src="ch085.xhtml#பகத-பனனரணட-இமயநலம---10" />
+    </navPoint>
+    <navPoint id="navPoint-86">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு : இமையாநீலம் - 11</text>
+      </navLabel>
+      <content src="ch086.xhtml#பகத-பனனரணட-இமயநலம---11" />
+    </navPoint>
+    <navPoint id="navPoint-87">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு : இமையாநீலம் - 12</text>
+      </navLabel>
+      <content src="ch087.xhtml#பகத-பனனரணட-இமயநலம---12" />
+    </navPoint>
+    <navPoint id="navPoint-88">
+      <navLabel>
+        <text>பகுதி பதின்மூன்று : ஆழியின்விழி - 1</text>
+      </navLabel>
+      <content src="ch088.xhtml#பகத-பதனமனற-ஆழயனவழ---1" />
+    </navPoint>
+    <navPoint id="navPoint-89">
+      <navLabel>
+        <text>பகுதி பதின்மூன்று : ஆழியின்விழி - 2</text>
+      </navLabel>
+      <content src="ch089.xhtml#பகத-பதனமனற-ஆழயனவழ---2" />
+    </navPoint>
+    <navPoint id="navPoint-90">
+      <navLabel>
+        <text>பகுதி பதின்மூன்று : ஆழியின்விழி - 3</text>
+      </navLabel>
+      <content src="ch090.xhtml#பகத-பதனமனற-ஆழயனவழ---3" />
+    </navPoint>
+    <navPoint id="navPoint-91">
+      <navLabel>
+        <text>பகுதி பதின்மூன்று : ஆழியின்விழி - 4</text>
+      </navLabel>
+      <content src="ch091.xhtml#பகத-பதனமனற-ஆழயனவழ---4" />
+    </navPoint>
+    <navPoint id="navPoint-92">
+      <navLabel>
+        <text>பகுதி பதின்மூன்று : ஆழியின்விழி - 5</text>
+      </navLabel>
+      <content src="ch092.xhtml#பகத-பதனமனற-ஆழயனவழ---5" />
+    </navPoint>
+  </navMap>
+</ncx>

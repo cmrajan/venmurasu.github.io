@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:73ec3765-4f89-4789-91fc-4de6242fe551" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>14-நீர்க்கோலம்</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>14-நீர்க்கோலம்</text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>பாயிரம்</text>
+      </navLabel>
+      <content src="ch001.xhtml#பயரம" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>1. குருதிச்சாயல்</text>
+      </navLabel>
+      <content src="ch002.xhtml#கரதசசயல" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>2. பிறிதோன்</text>
+      </navLabel>
+      <content src="ch003.xhtml#பறதன" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>3. மெய்மைக்கொடி</text>
+      </navLabel>
+      <content src="ch004.xhtml#மயமககட" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>4. கலிமுகம்</text>
+      </navLabel>
+      <content src="ch005.xhtml#கலமகம" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>5. கரியெழில்</text>
+      </navLabel>
+      <content src="ch006.xhtml#கரயழல" />
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>6. முதல்மலர்</text>
+      </navLabel>
+      <content src="ch007.xhtml#மதலமலர" />
+    </navPoint>
+    <navPoint id="navPoint-8">
+      <navLabel>
+        <text>7. அலையன்னம்</text>
+      </navLabel>
+      <content src="ch008.xhtml#அலயனனம" />
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>8. அன்னங்கள்</text>
+      </navLabel>
+      <content src="ch009.xhtml#அனனஙகள" />
+    </navPoint>
+    <navPoint id="navPoint-10">
+      <navLabel>
+        <text>9. ஊசலின் தாளம்</text>
+      </navLabel>
+      <content src="ch010.xhtml#ஊசலன-தளம" />
+    </navPoint>
+    <navPoint id="navPoint-11">
+      <navLabel>
+        <text>10. படைகொளல்</text>
+      </navLabel>
+      <content src="ch011.xhtml#படகளல" />
+    </navPoint>
+    <navPoint id="navPoint-12">
+      <navLabel>
+        <text>11. இளநாகம்</text>
+      </navLabel>
+      <content src="ch012.xhtml#இளநகம" />
+    </navPoint>
+    <navPoint id="navPoint-13">
+      <navLabel>
+        <text>12. சகடத்திருமை</text>
+      </navLabel>
+      <content src="ch013.xhtml#சகடததரம" />
+    </navPoint>
+    <navPoint id="navPoint-14">
+      <navLabel>
+        <text>13. அவைநிற்றல்</text>
+      </navLabel>
+      <content src="ch014.xhtml#அவநறறல" />
+    </navPoint>
+    <navPoint id="navPoint-15">
+      <navLabel>
+        <text>14. அணிசூடுதல்</text>
+      </navLabel>
+      <content src="ch015.xhtml#அணசடதல" />
+    </navPoint>
+    <navPoint id="navPoint-16">
+      <navLabel>
+        <text>15.கைக்கொளல்</text>
+      </navLabel>
+      <content src="ch016.xhtml#கககளல" />
+    </navPoint>
+    <navPoint id="navPoint-17">
+      <navLabel>
+        <text>16. பசுந்தளிர்ப்புள்</text>
+      </navLabel>
+      <content src="ch017.xhtml#பசநதளரபபள" />
+    </navPoint>
+    <navPoint id="navPoint-18">
+      <navLabel>
+        <text>17. முகமுன்முகம்</text>
+      </navLabel>
+      <content src="ch018.xhtml#மகமனமகம" />
+    </navPoint>
+    <navPoint id="navPoint-19">
+      <navLabel>
+        <text>http://www.jeyamohan.in/wp-content/uploads/2017/05/flower-e1495732883119.png புரந்தரமுனிவரின் குருநிலையிலிருந்து பாண்டவர்கள் ஐவரும் திரௌபதியும் தனித்தனியாக கிளம்பி நிஷத நாட்டிற்குள் செல்வது நன்று என்று தருமர் சொன்னபோது பீமன் உரத்த குரலில் “நானும் தேவியும் இணைந்தே செல்கிறோம். அல்லது நம்மில் ஒருவர் தேவியுடன் இருக்கட்டும். இதுவரை நாம் அவளை தனியாக விட்டதில்லை” என்றான். தருமர் முகம் சுருங்க “நானும் அதை எண்ணினேன். அவள் இது வரை மாற்றுரு கொண்டதே இல்லை. தன் புதிய உருவுடன் விழிகளுக்குமுன் அவள் இறங்கிச் செல்லட்டும். இங்கிருந்து நிஷத அரண்மனை வரை சென்று சேர்வது தன்னை உருமாற்றிக்கொள்வதற்கான பயிற்சியாக அமையும்” என்றார்.</text>
+      </navLabel>
+      <content src="ch019.xhtml#httpwww.jeyamohan.inwp-contentuploads201705flower-e1495732883119.png-பரநதரமனவரன-கரநலயலரநத-பணடவரகள-ஐவரம-தரபதயம-தனததனயக-களமப-நஷத-நடடறகள-சலவத-நனற-எனற-தரமர-சனனபத-பமன-உரதத-கரலல-நனம-தவயம-இணநத-சலகறம.-அலலத-நமமல-ஒரவர-தவயடன-இரககடடம.-இதவர-நம-அவள-தனயக-வடடதலல-எனறன.-தரமர-மகம-சரஙக-நனம-அத-எணணனன.-அவள-இத-வர-மறறர-கணடத-இலல.-தன-பதய-உரவடன-வழகளககமன-அவள-இறஙகச-சலலடடம.-இஙகரநத-நஷத-அரணமன-வர-சனற-சரவத-தனன-உரமறறககளவதறகன-பயறசயக-அமயம-எனறர." />
+    </navPoint>
+    <navPoint id="navPoint-20">
+      <navLabel>
+        <text>19. புறமெழுதல்</text>
+      </navLabel>
+      <content src="ch020.xhtml#பறமழதல" />
+    </navPoint>
+    <navPoint id="navPoint-21">
+      <navLabel>
+        <text>20. பொய்ப்புரவி</text>
+      </navLabel>
+      <content src="ch021.xhtml#பயபபரவ" />
+    </navPoint>
+    <navPoint id="navPoint-22">
+      <navLabel>
+        <text>21. புரவியின் இரவு</text>
+      </navLabel>
+      <content src="ch022.xhtml#பரவயனஇரவ" />
+    </navPoint>
+    <navPoint id="navPoint-23">
+      <navLabel>
+        <text>22. களிற்றுப்புரவி</text>
+      </navLabel>
+      <content src="ch023.xhtml#களறறபபரவ" />
+    </navPoint>
+    <navPoint id="navPoint-24">
+      <navLabel>
+        <text>23. அன்னமும் காகமும்</text>
+      </navLabel>
+      <content src="ch024.xhtml#அனனமமககமம" />
+    </navPoint>
+    <navPoint id="navPoint-25">
+      <navLabel>
+        <text>24. கரவுக்கானகம்</text>
+      </navLabel>
+      <content src="ch025.xhtml#கரவககனகம" />
+    </navPoint>
+    <navPoint id="navPoint-26">
+      <navLabel>
+        <text>25. அழியாநாகம்</text>
+      </navLabel>
+      <content src="ch026.xhtml#அழயநகம" />
+    </navPoint>
+    <navPoint id="navPoint-27">
+      <navLabel>
+        <text>26. நிலைக்கோள்</text>
+      </navLabel>
+      <content src="ch027.xhtml#நலககள" />
+    </navPoint>
+    <navPoint id="navPoint-28">
+      <navLabel>
+        <text>27. இருளெழுகை</text>
+      </navLabel>
+      <content src="ch028.xhtml#இரளழக" />
+    </navPoint>
+    <navPoint id="navPoint-29">
+      <navLabel>
+        <text>28. அன்னநிறைவு</text>
+      </navLabel>
+      <content src="ch029.xhtml#அனனநறவ" />
+    </navPoint>
+    <navPoint id="navPoint-30">
+      <navLabel>
+        <text>29. சுவைத்தருணம்</text>
+      </navLabel>
+      <content src="ch030.xhtml#சவததரணம" />
+    </navPoint>
+    <navPoint id="navPoint-31">
+      <navLabel>
+        <text>30. முதற்களம்</text>
+      </navLabel>
+      <content src="ch031.xhtml#மதறகளம" />
+    </navPoint>
+    <navPoint id="navPoint-32">
+      <navLabel>
+        <text>31. நிழற்கொடி</text>
+      </navLabel>
+      <content src="ch032.xhtml#நழறகட" />
+    </navPoint>
+    <navPoint id="navPoint-33">
+      <navLabel>
+        <text>32. மின்னலும்காகமும்</text>
+      </navLabel>
+      <content src="ch033.xhtml#மனனலமககமம" />
+    </navPoint>
+    <navPoint id="navPoint-34">
+      <navLabel>
+        <text>33. குருதிச்சோறு</text>
+      </navLabel>
+      <content src="ch034.xhtml#கரதசசற" />
+    </navPoint>
+    <navPoint id="navPoint-35">
+      <navLabel>
+        <text>34. பெருங்கைவேழம்</text>
+      </navLabel>
+      <content src="ch035.xhtml#பரஙகவழம" />
+    </navPoint>
+    <navPoint id="navPoint-36">
+      <navLabel>
+        <text>35. வேழமருப்பு</text>
+      </navLabel>
+      <content src="ch036.xhtml#வழமரபப" />
+    </navPoint>
+    <navPoint id="navPoint-37">
+      <navLabel>
+        <text>36. புற்றமை நாகம்</text>
+      </navLabel>
+      <content src="ch037.xhtml#பறறம-நகம" />
+    </navPoint>
+    <navPoint id="navPoint-38">
+      <navLabel>
+        <text>37. குருதிகொளல்</text>
+      </navLabel>
+      <content src="ch038.xhtml#கரதகளல" />
+    </navPoint>
+    <navPoint id="navPoint-39">
+      <navLabel>
+        <text>38. முகில்பகடை</text>
+      </navLabel>
+      <content src="ch039.xhtml#மகலபகட" />
+    </navPoint>
+    <navPoint id="navPoint-40">
+      <navLabel>
+        <text>39. நிலைக்கல்</text>
+      </navLabel>
+      <content src="ch040.xhtml#நலககல" />
+    </navPoint>
+    <navPoint id="navPoint-41">
+      <navLabel>
+        <text>40 குருதிமை</text>
+      </navLabel>
+      <content src="ch041.xhtml#கரதம" />
+    </navPoint>
+    <navPoint id="navPoint-42">
+      <navLabel>
+        <text>41. தனிநகை</text>
+      </navLabel>
+      <content src="ch042.xhtml#தனநக" />
+    </navPoint>
+    <navPoint id="navPoint-43">
+      <navLabel>
+        <text>42. சூரணங்கு</text>
+      </navLabel>
+      <content src="ch043.xhtml#சரணஙக" />
+    </navPoint>
+    <navPoint id="navPoint-44">
+      <navLabel>
+        <text>43. காகச்சிறகுகள்</text>
+      </navLabel>
+      <content src="ch044.xhtml#ககசசறககள" />
+    </navPoint>
+    <navPoint id="navPoint-45">
+      <navLabel>
+        <text>44. நாத்தழல்</text>
+      </navLabel>
+      <content src="ch045.xhtml#நததழல" />
+    </navPoint>
+    <navPoint id="navPoint-46">
+      <navLabel>
+        <text>45. நீர்ப் பசுஞ்சோலை</text>
+      </navLabel>
+      <content src="ch046.xhtml#நரபபசஞசல" />
+    </navPoint>
+    <navPoint id="navPoint-47">
+      <navLabel>
+        <text>46. கான்நுழைவு</text>
+      </navLabel>
+      <content src="ch047.xhtml#கனநழவ" />
+    </navPoint>
+    <navPoint id="navPoint-48">
+      <navLabel>
+        <text>47. நிலவெழுகை</text>
+      </navLabel>
+      <content src="ch048.xhtml#நலவழக" />
+    </navPoint>
+    <navPoint id="navPoint-49">
+      <navLabel>
+        <text>48. பொற்சுழி</text>
+      </navLabel>
+      <content src="ch049.xhtml#பறசழ" />
+    </navPoint>
+    <navPoint id="navPoint-50">
+      <navLabel>
+        <text>49. மதுநிலவு</text>
+      </navLabel>
+      <content src="ch050.xhtml#மதநலவ" />
+    </navPoint>
+    <navPoint id="navPoint-51">
+      <navLabel>
+        <text>50. பொன்னும் இரும்பும்</text>
+      </navLabel>
+      <content src="ch051.xhtml#பனனமஇரமபம" />
+    </navPoint>
+    <navPoint id="navPoint-52">
+      <navLabel>
+        <text>51. குருதிக்கடல்</text>
+      </navLabel>
+      <content src="ch052.xhtml#கரதககடல" />
+    </navPoint>
+    <navPoint id="navPoint-53">
+      <navLabel>
+        <text>52. நிறையாக் கானகம்</text>
+      </navLabel>
+      <content src="ch053.xhtml#நறயக-கனகம" />
+    </navPoint>
+    <navPoint id="navPoint-54">
+      <navLabel>
+        <text>53. உடனுறை நஞ்சு</text>
+      </navLabel>
+      <content src="ch054.xhtml#உடனற-நஞச" />
+    </navPoint>
+    <navPoint id="navPoint-55">
+      <navLabel>
+        <text>54. பரிஎழுகை</text>
+      </navLabel>
+      <content src="ch055.xhtml#பரஎழக" />
+    </navPoint>
+    <navPoint id="navPoint-56">
+      <navLabel>
+        <text>55. ஆடியுடன் ஆடுதல்</text>
+      </navLabel>
+      <content src="ch056.xhtml#ஆடயடனஆடதல" />
+    </navPoint>
+    <navPoint id="navPoint-57">
+      <navLabel>
+        <text>56. முள்விளையாடல்</text>
+      </navLabel>
+      <content src="ch057.xhtml#மளவளயடல" />
+    </navPoint>
+    <navPoint id="navPoint-58">
+      <navLabel>
+        <text>57. குருதி நாற்களம்</text>
+      </navLabel>
+      <content src="ch058.xhtml#கரதநறகளம" />
+    </navPoint>
+    <navPoint id="navPoint-59">
+      <navLabel>
+        <text>58. நிலைபேறு</text>
+      </navLabel>
+      <content src="ch059.xhtml#நலபற" />
+    </navPoint>
+    <navPoint id="navPoint-60">
+      <navLabel>
+        <text>59. அரங்கொழிதல்</text>
+      </navLabel>
+      <content src="ch060.xhtml#அரஙகழதல" />
+    </navPoint>
+    <navPoint id="navPoint-61">
+      <navLabel>
+        <text>60. நிழலியல்கை</text>
+      </navLabel>
+      <content src="ch061.xhtml#நழலயலக" />
+    </navPoint>
+    <navPoint id="navPoint-62">
+      <navLabel>
+        <text>61. இளவேனில் வருகை</text>
+      </navLabel>
+      <content src="ch062.xhtml#இளவனலவரக" />
+    </navPoint>
+    <navPoint id="navPoint-63">
+      <navLabel>
+        <text>62. மற்களம்</text>
+      </navLabel>
+      <content src="ch063.xhtml#மறகளம" />
+    </navPoint>
+    <navPoint id="navPoint-64">
+      <navLabel>
+        <text>63. களம்நிறைத்தல்</text>
+      </navLabel>
+      <content src="ch064.xhtml#களமநறததல" />
+    </navPoint>
+    <navPoint id="navPoint-65">
+      <navLabel>
+        <text>64. மாநாகத்தழுவல்</text>
+      </navLabel>
+      <content src="ch065.xhtml#மநகததழவல" />
+    </navPoint>
+    <navPoint id="navPoint-66">
+      <navLabel>
+        <text>65. துயிலரசி</text>
+      </navLabel>
+      <content src="ch066.xhtml#தயலரச" />
+    </navPoint>
+    <navPoint id="navPoint-67">
+      <navLabel>
+        <text>66. அரவுக்காடு</text>
+      </navLabel>
+      <content src="ch067.xhtml#அரவககட" />
+    </navPoint>
+    <navPoint id="navPoint-68">
+      <navLabel>
+        <text>67. வாழும்நஞ்சு</text>
+      </navLabel>
+      <content src="ch068.xhtml#வழமநஞச" />
+    </navPoint>
+    <navPoint id="navPoint-69">
+      <navLabel>
+        <text>68. நெளிநீர்ப்பாவை</text>
+      </navLabel>
+      <content src="ch069.xhtml#நளநரபபவ" />
+    </navPoint>
+    <navPoint id="navPoint-70">
+      <navLabel>
+        <text>69. ஏழரை இருள்</text>
+      </navLabel>
+      <content src="ch070.xhtml#ஏழரஇரள" />
+    </navPoint>
+    <navPoint id="navPoint-71">
+      <navLabel>
+        <text>70. நாற்கள அவை</text>
+      </navLabel>
+      <content src="ch071.xhtml#நறகளஅவ" />
+    </navPoint>
+    <navPoint id="navPoint-72">
+      <navLabel>
+        <text>71. அறக்கூற்று</text>
+      </navLabel>
+      <content src="ch072.xhtml#அறககறற" />
+    </navPoint>
+    <navPoint id="navPoint-73">
+      <navLabel>
+        <text>72. ஆடியிலெழுபவன்</text>
+      </navLabel>
+      <content src="ch073.xhtml#ஆடயலழபவன" />
+    </navPoint>
+    <navPoint id="navPoint-74">
+      <navLabel>
+        <text>73. தெய்வமெழுதல்</text>
+      </navLabel>
+      <content src="ch074.xhtml#தயவமழதல" />
+    </navPoint>
+    <navPoint id="navPoint-75">
+      <navLabel>
+        <text>74. நச்சாடல்</text>
+      </navLabel>
+      <content src="ch075.xhtml#நசசடல" />
+    </navPoint>
+    <navPoint id="navPoint-76">
+      <navLabel>
+        <text>75. காகத்தின் நகர்</text>
+      </navLabel>
+      <content src="ch076.xhtml#ககததனநகர" />
+    </navPoint>
+    <navPoint id="navPoint-77">
+      <navLabel>
+        <text>76. கைகளானவன்</text>
+      </navLabel>
+      <content src="ch077.xhtml#ககளனவன" />
+    </navPoint>
+    <navPoint id="navPoint-78">
+      <navLabel>
+        <text>77. எழுபுரவி</text>
+      </navLabel>
+      <content src="ch078.xhtml#எழபரவ" />
+    </navPoint>
+    <navPoint id="navPoint-79">
+      <navLabel>
+        <text>78. காட்டுக்குதிரை</text>
+      </navLabel>
+      <content src="ch079.xhtml#கடடககதர" />
+    </navPoint>
+    <navPoint id="navPoint-80">
+      <navLabel>
+        <text>79. நச்சின் எல்லை</text>
+      </navLabel>
+      <content src="ch080.xhtml#நசசனஎலல" />
+    </navPoint>
+    <navPoint id="navPoint-81">
+      <navLabel>
+        <text>80. உள்ளொலிகள்</text>
+      </navLabel>
+      <content src="ch081.xhtml#உளளலகள" />
+    </navPoint>
+    <navPoint id="navPoint-82">
+      <navLabel>
+        <text>81. முகம்பரிமாறல்</text>
+      </navLabel>
+      <content src="ch082.xhtml#மகமபரமறல" />
+    </navPoint>
+    <navPoint id="navPoint-83">
+      <navLabel>
+        <text>82. இருளூர்கை</text>
+      </navLabel>
+      <content src="ch083.xhtml#இரளரக" />
+    </navPoint>
+    <navPoint id="navPoint-84">
+      <navLabel>
+        <text>83. படைமுகம்</text>
+      </navLabel>
+      <content src="ch084.xhtml#படமகம" />
+    </navPoint>
+    <navPoint id="navPoint-85">
+      <navLabel>
+        <text>84. நீர்ப்பாவை நடனம்</text>
+      </navLabel>
+      <content src="ch085.xhtml#நரபபவநடனம" />
+    </navPoint>
+    <navPoint id="navPoint-86">
+      <navLabel>
+        <text>85. தொலைமீன்ஒளிகள்</text>
+      </navLabel>
+      <content src="ch086.xhtml#தலமனஒளகள" />
+    </navPoint>
+    <navPoint id="navPoint-87">
+      <navLabel>
+        <text>86. அனலும் குருதியும்</text>
+      </navLabel>
+      <content src="ch087.xhtml#அனலமகரதயம" />
+    </navPoint>
+    <navPoint id="navPoint-88">
+      <navLabel>
+        <text>87. கோட்டை நுழைவு</text>
+      </navLabel>
+      <content src="ch088.xhtml#கடடநழவ" />
+    </navPoint>
+    <navPoint id="navPoint-89">
+      <navLabel>
+        <text>88. அரியணையமைதல்</text>
+      </navLabel>
+      <content src="ch089.xhtml#அரயணயமதல" />
+    </navPoint>
+    <navPoint id="navPoint-90">
+      <navLabel>
+        <text>89. அடுமனைசேர்தல்</text>
+      </navLabel>
+      <content src="ch090.xhtml#அடமனசரதல" />
+    </navPoint>
+    <navPoint id="navPoint-91">
+      <navLabel>
+        <text>90. அலைசூடிய மணி</text>
+      </navLabel>
+      <content src="ch091.xhtml#அலசடயமண" />
+    </navPoint>
+    <navPoint id="navPoint-92">
+      <navLabel>
+        <text>91.எஞ்சும் நஞ்சு</text>
+      </navLabel>
+      <content src="ch092.xhtml#எஞசமநஞச" />
+    </navPoint>
+    <navPoint id="navPoint-93">
+      <navLabel>
+        <text>92. பொற்புடம்</text>
+      </navLabel>
+      <content src="ch093.xhtml#பறபடம" />
+    </navPoint>
+    <navPoint id="navPoint-94">
+      <navLabel>
+        <text>93. கருந்துளி</text>
+      </navLabel>
+      <content src="ch094.xhtml#கரநதள" />
+    </navPoint>
+    <navPoint id="navPoint-95">
+      <navLabel>
+        <text>94. வீழ்நிலம்</text>
+      </navLabel>
+      <content src="ch095.xhtml#வழநலம" />
+    </navPoint>
+    <navPoint id="navPoint-96">
+      <navLabel>
+        <text>95. நிலவொளிர்காடு</text>
+      </navLabel>
+      <content src="ch096.xhtml#நலவளரகட" />
+    </navPoint>
+    <navPoint id="navPoint-97">
+      <navLabel>
+        <text>96. கைச்சிறுகோல்</text>
+      </navLabel>
+      <content src="ch097.xhtml#கசசறகல" />
+    </navPoint>
+  </navMap>
+</ncx>

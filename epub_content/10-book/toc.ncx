@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:e625d97d-2326-44f8-99cb-3e96763c0d3a" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>10-பன்னிரு படைக்களம்</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>10-பன்னிரு படைக்களம்</text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>அணிமுகப்பு</text>
+      </navLabel>
+      <content src="ch001.xhtml#அணமகபப" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>களம் ஒன்று, சித்திரை</text>
+      </navLabel>
+      <content src="ch002.xhtml#களம-ஒனற-சததர" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>[   2    ]</text>
+      </navLabel>
+      <content src="ch003.xhtml#section" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>[ 3 ]</text>
+      </navLabel>
+      <content src="ch004.xhtml#section-1" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>[ 4 ]</text>
+      </navLabel>
+      <content src="ch005.xhtml#section-2" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>[ 6 ]</text>
+      </navLabel>
+      <content src="ch006.xhtml#section-3" />
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>[ 8 ]</text>
+      </navLabel>
+      <content src="ch007.xhtml#section-4" />
+    </navPoint>
+    <navPoint id="navPoint-8">
+      <navLabel>
+        <text>[ 11 ]</text>
+      </navLabel>
+      <content src="ch008.xhtml#section-5" />
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>பகுதி இரண்டு: வைகாசி</text>
+      </navLabel>
+      <content src="ch009.xhtml#பகத-இரணட-வகச" />
+    </navPoint>
+    <navPoint id="navPoint-10">
+      <navLabel>
+        <text>[ 3 ]</text>
+      </navLabel>
+      <content src="ch010.xhtml#section-6" />
+    </navPoint>
+    <navPoint id="navPoint-11">
+      <navLabel>
+        <text>[ 5 ]</text>
+      </navLabel>
+      <content src="ch011.xhtml#section-7" />
+    </navPoint>
+    <navPoint id="navPoint-12">
+      <navLabel>
+        <text>[ 7 ]</text>
+      </navLabel>
+      <content src="ch012.xhtml#section-8" />
+    </navPoint>
+    <navPoint id="navPoint-13">
+      <navLabel>
+        <text>[ 9 ]</text>
+      </navLabel>
+      <content src="ch013.xhtml#section-9" />
+    </navPoint>
+    <navPoint id="navPoint-14">
+      <navLabel>
+        <text>[ 11 ]</text>
+      </navLabel>
+      <content src="ch014.xhtml#section-10" />
+    </navPoint>
+    <navPoint id="navPoint-15">
+      <navLabel>
+        <text>[ 13 ]</text>
+      </navLabel>
+      <content src="ch015.xhtml#section-11" />
+    </navPoint>
+    <navPoint id="navPoint-16">
+      <navLabel>
+        <text>[ 15 ]</text>
+      </navLabel>
+      <content src="ch016.xhtml#section-12" />
+    </navPoint>
+    <navPoint id="navPoint-17">
+      <navLabel>
+        <text>[ 17 ]</text>
+      </navLabel>
+      <content src="ch017.xhtml#section-13" />
+    </navPoint>
+    <navPoint id="navPoint-18">
+      <navLabel>
+        <text>பகுதி மூன்று : ஆனி</text>
+      </navLabel>
+      <content src="ch018.xhtml#பகத-மனற-ஆன" />
+    </navPoint>
+    <navPoint id="navPoint-19">
+      <navLabel>
+        <text>[ 4 ]</text>
+      </navLabel>
+      <content src="ch019.xhtml#section-14" />
+    </navPoint>
+    <navPoint id="navPoint-20">
+      <navLabel>
+        <text>பகுதி நான்கு : ஆடி</text>
+      </navLabel>
+      <content src="ch020.xhtml#பகத-நனக-ஆட" />
+    </navPoint>
+    <navPoint id="navPoint-21">
+      <navLabel>
+        <text>[ 4 ]</text>
+      </navLabel>
+      <content src="ch021.xhtml#section-15" />
+    </navPoint>
+    <navPoint id="navPoint-22">
+      <navLabel>
+        <text>[ 6 ]</text>
+      </navLabel>
+      <content src="ch022.xhtml#section-16" />
+    </navPoint>
+    <navPoint id="navPoint-23">
+      <navLabel>
+        <text>[ 8 ]</text>
+      </navLabel>
+      <content src="ch023.xhtml#section-17" />
+    </navPoint>
+    <navPoint id="navPoint-24">
+      <navLabel>
+        <text>பகுதி ஐந்து : ஆவணி</text>
+      </navLabel>
+      <content src="ch024.xhtml#பகத-ஐநத-ஆவண" />
+    </navPoint>
+    <navPoint id="navPoint-25">
+      <navLabel>
+        <text>[ 2 ]</text>
+      </navLabel>
+      <content src="ch025.xhtml#section-18" />
+    </navPoint>
+    <navPoint id="navPoint-26">
+      <navLabel>
+        <text>[ 4 ]</text>
+      </navLabel>
+      <content src="ch026.xhtml#section-19" />
+    </navPoint>
+    <navPoint id="navPoint-27">
+      <navLabel>
+        <text>[ 6 ]</text>
+      </navLabel>
+      <content src="ch027.xhtml#section-20" />
+    </navPoint>
+    <navPoint id="navPoint-28">
+      <navLabel>
+        <text>[ 9 ]</text>
+      </navLabel>
+      <content src="ch028.xhtml#section-21" />
+    </navPoint>
+    <navPoint id="navPoint-29">
+      <navLabel>
+        <text>[ 11 ]</text>
+      </navLabel>
+      <content src="ch029.xhtml#section-22" />
+    </navPoint>
+    <navPoint id="navPoint-30">
+      <navLabel>
+        <text>[ 12 ]</text>
+      </navLabel>
+      <content src="ch030.xhtml#section-23" />
+    </navPoint>
+    <navPoint id="navPoint-31">
+      <navLabel>
+        <text>[ 14 ]</text>
+      </navLabel>
+      <content src="ch031.xhtml#section-24" />
+    </navPoint>
+    <navPoint id="navPoint-32">
+      <navLabel>
+        <text>பகுதி ஆறு : பூரட்டாதி</text>
+      </navLabel>
+      <content src="ch032.xhtml#பகத-ஆற-பரடடத" />
+    </navPoint>
+    <navPoint id="navPoint-33">
+      <navLabel>
+        <text>[ 3 ]</text>
+      </navLabel>
+      <content src="ch033.xhtml#section-25" />
+    </navPoint>
+    <navPoint id="navPoint-34">
+      <navLabel>
+        <text>[ 5 ]</text>
+      </navLabel>
+      <content src="ch034.xhtml#section-26" />
+    </navPoint>
+    <navPoint id="navPoint-35">
+      <navLabel>
+        <text>[ 7 ]</text>
+      </navLabel>
+      <content src="ch035.xhtml#section-27" />
+    </navPoint>
+    <navPoint id="navPoint-36">
+      <navLabel>
+        <text>பகுதி ஏழு : ஐப்பசி</text>
+      </navLabel>
+      <content src="ch036.xhtml#பகத-ஏழ-ஐபபச" />
+    </navPoint>
+    <navPoint id="navPoint-37">
+      <navLabel>
+        <text>[ 4 ]</text>
+      </navLabel>
+      <content src="ch037.xhtml#section-28" />
+    </navPoint>
+    <navPoint id="navPoint-38">
+      <navLabel>
+        <text>[ 6 ]</text>
+      </navLabel>
+      <content src="ch038.xhtml#section-29" />
+    </navPoint>
+    <navPoint id="navPoint-39">
+      <navLabel>
+        <text>[ 8 ]</text>
+      </navLabel>
+      <content src="ch039.xhtml#section-30" />
+    </navPoint>
+    <navPoint id="navPoint-40">
+      <navLabel>
+        <text>[ 10 ]</text>
+      </navLabel>
+      <content src="ch040.xhtml#section-31" />
+    </navPoint>
+    <navPoint id="navPoint-41">
+      <navLabel>
+        <text>[ 12 ]</text>
+      </navLabel>
+      <content src="ch041.xhtml#section-32" />
+    </navPoint>
+    <navPoint id="navPoint-42">
+      <navLabel>
+        <text>[ 14 ]</text>
+      </navLabel>
+      <content src="ch042.xhtml#section-33" />
+    </navPoint>
+    <navPoint id="navPoint-43">
+      <navLabel>
+        <text>[ 16 ]</text>
+      </navLabel>
+      <content src="ch043.xhtml#section-34" />
+    </navPoint>
+    <navPoint id="navPoint-44">
+      <navLabel>
+        <text>[ 17 ]</text>
+      </navLabel>
+      <content src="ch044.xhtml#section-35" />
+    </navPoint>
+    <navPoint id="navPoint-45">
+      <navLabel>
+        <text>பகுதி எட்டு : கார்த்திகை</text>
+      </navLabel>
+      <content src="ch045.xhtml#பகத-எடட-கரததக" />
+    </navPoint>
+    <navPoint id="navPoint-46">
+      <navLabel>
+        <text>[ 4 ]</text>
+      </navLabel>
+      <content src="ch046.xhtml#section-36" />
+    </navPoint>
+    <navPoint id="navPoint-47">
+      <navLabel>
+        <text>[ 7 ]</text>
+      </navLabel>
+      <content src="ch047.xhtml#section-37" />
+    </navPoint>
+    <navPoint id="navPoint-48">
+      <navLabel>
+        <text>[ 8 ]</text>
+      </navLabel>
+      <content src="ch048.xhtml#section-38" />
+    </navPoint>
+    <navPoint id="navPoint-49">
+      <navLabel>
+        <text>[ 10 ]</text>
+      </navLabel>
+      <content src="ch049.xhtml#section-39" />
+    </navPoint>
+    <navPoint id="navPoint-50">
+      <navLabel>
+        <text>[ 12 ]</text>
+      </navLabel>
+      <content src="ch050.xhtml#section-40" />
+    </navPoint>
+    <navPoint id="navPoint-51">
+      <navLabel>
+        <text>[ 14 ]</text>
+      </navLabel>
+      <content src="ch051.xhtml#section-41" />
+    </navPoint>
+    <navPoint id="navPoint-52">
+      <navLabel>
+        <text>[ 16 ]</text>
+      </navLabel>
+      <content src="ch052.xhtml#section-42" />
+    </navPoint>
+    <navPoint id="navPoint-53">
+      <navLabel>
+        <text>[ 17 ]</text>
+      </navLabel>
+      <content src="ch053.xhtml#section-43" />
+    </navPoint>
+    <navPoint id="navPoint-54">
+      <navLabel>
+        <text>[ 20 ]</text>
+      </navLabel>
+      <content src="ch054.xhtml#section-44" />
+    </navPoint>
+    <navPoint id="navPoint-55">
+      <navLabel>
+        <text>[ 22 ]</text>
+      </navLabel>
+      <content src="ch055.xhtml#section-45" />
+    </navPoint>
+    <navPoint id="navPoint-56">
+      <navLabel>
+        <text>பகுதி ஒன்பது : மார்கழி</text>
+      </navLabel>
+      <content src="ch056.xhtml#பகத-ஒனபத-மரகழ" />
+    </navPoint>
+    <navPoint id="navPoint-57">
+      <navLabel>
+        <text>[ 3 ]</text>
+      </navLabel>
+      <content src="ch057.xhtml#section-46" />
+    </navPoint>
+    <navPoint id="navPoint-58">
+      <navLabel>
+        <text>[ 4 ]</text>
+      </navLabel>
+      <content src="ch058.xhtml#section-47" />
+    </navPoint>
+    <navPoint id="navPoint-59">
+      <navLabel>
+        <text>[ 6 ]</text>
+      </navLabel>
+      <content src="ch059.xhtml#section-48" />
+    </navPoint>
+    <navPoint id="navPoint-60">
+      <navLabel>
+        <text>[ 8 ]</text>
+      </navLabel>
+      <content src="ch060.xhtml#section-49" />
+    </navPoint>
+    <navPoint id="navPoint-61">
+      <navLabel>
+        <text>[ 9 ]</text>
+      </navLabel>
+      <content src="ch061.xhtml#section-50" />
+    </navPoint>
+    <navPoint id="navPoint-62">
+      <navLabel>
+        <text>[ 10 ]</text>
+      </navLabel>
+      <content src="ch062.xhtml#section-51" />
+    </navPoint>
+    <navPoint id="navPoint-63">
+      <navLabel>
+        <text>பகுதி பத்து : தை</text>
+      </navLabel>
+      <content src="ch063.xhtml#பகத-பதத-த" />
+    </navPoint>
+    <navPoint id="navPoint-64">
+      <navLabel>
+        <text>[ 3 ]</text>
+      </navLabel>
+      <content src="ch064.xhtml#section-52" />
+    </navPoint>
+    <navPoint id="navPoint-65">
+      <navLabel>
+        <text>[ 4 ]</text>
+      </navLabel>
+      <content src="ch065.xhtml#section-53" />
+    </navPoint>
+    <navPoint id="navPoint-66">
+      <navLabel>
+        <text>[ 6 ]</text>
+      </navLabel>
+      <content src="ch066.xhtml#section-54" />
+    </navPoint>
+    <navPoint id="navPoint-67">
+      <navLabel>
+        <text>[ 8 ]</text>
+      </navLabel>
+      <content src="ch067.xhtml#section-55" />
+    </navPoint>
+    <navPoint id="navPoint-68">
+      <navLabel>
+        <text>[ 10 ]</text>
+      </navLabel>
+      <content src="ch068.xhtml#section-56" />
+    </navPoint>
+    <navPoint id="navPoint-69">
+      <navLabel>
+        <text>[ 12 ]</text>
+      </navLabel>
+      <content src="ch069.xhtml#section-57" />
+    </navPoint>
+    <navPoint id="navPoint-70">
+      <navLabel>
+        <text>[ 14 ]</text>
+      </navLabel>
+      <content src="ch070.xhtml#section-58" />
+    </navPoint>
+    <navPoint id="navPoint-71">
+      <navLabel>
+        <text>[ 15 ]</text>
+      </navLabel>
+      <content src="ch071.xhtml#section-59" />
+    </navPoint>
+    <navPoint id="navPoint-72">
+      <navLabel>
+        <text>[ 17 ]</text>
+      </navLabel>
+      <content src="ch072.xhtml#section-60" />
+    </navPoint>
+    <navPoint id="navPoint-73">
+      <navLabel>
+        <text>[ 18 ]</text>
+      </navLabel>
+      <content src="ch073.xhtml#section-61" />
+    </navPoint>
+    <navPoint id="navPoint-74">
+      <navLabel>
+        <text>[ 21 ]</text>
+      </navLabel>
+      <content src="ch074.xhtml#section-62" />
+    </navPoint>
+    <navPoint id="navPoint-75">
+      <navLabel>
+        <text>[ 24 ]</text>
+      </navLabel>
+      <content src="ch075.xhtml#section-63" />
+    </navPoint>
+    <navPoint id="navPoint-76">
+      <navLabel>
+        <text>பகுதி பதினொன்று : மாசி</text>
+      </navLabel>
+      <content src="ch076.xhtml#பகத-பதனனற-மச" />
+    </navPoint>
+    <navPoint id="navPoint-77">
+      <navLabel>
+        <text>[ 2 ]</text>
+      </navLabel>
+      <content src="ch077.xhtml#section-64" />
+    </navPoint>
+    <navPoint id="navPoint-78">
+      <navLabel>
+        <text>[ 4 ]</text>
+      </navLabel>
+      <content src="ch078.xhtml#section-65" />
+    </navPoint>
+    <navPoint id="navPoint-79">
+      <navLabel>
+        <text>[ 6 ]</text>
+      </navLabel>
+      <content src="ch079.xhtml#section-66" />
+    </navPoint>
+    <navPoint id="navPoint-80">
+      <navLabel>
+        <text>[ 7 ]</text>
+      </navLabel>
+      <content src="ch080.xhtml#section-67" />
+    </navPoint>
+    <navPoint id="navPoint-81">
+      <navLabel>
+        <text>[ 9 ]</text>
+      </navLabel>
+      <content src="ch081.xhtml#section-68" />
+    </navPoint>
+    <navPoint id="navPoint-82">
+      <navLabel>
+        <text>[ 11 ]</text>
+      </navLabel>
+      <content src="ch082.xhtml#section-69" />
+    </navPoint>
+    <navPoint id="navPoint-83">
+      <navLabel>
+        <text>[ 13 ]</text>
+      </navLabel>
+      <content src="ch083.xhtml#section-70" />
+    </navPoint>
+    <navPoint id="navPoint-84">
+      <navLabel>
+        <text>[ 14 ]</text>
+      </navLabel>
+      <content src="ch084.xhtml#section-71" />
+    </navPoint>
+    <navPoint id="navPoint-85">
+      <navLabel>
+        <text>[ 16 ]</text>
+      </navLabel>
+      <content src="ch085.xhtml#section-72" />
+    </navPoint>
+    <navPoint id="navPoint-86">
+      <navLabel>
+        <text>[ 17 ]</text>
+      </navLabel>
+      <content src="ch086.xhtml#section-73" />
+    </navPoint>
+    <navPoint id="navPoint-87">
+      <navLabel>
+        <text>[ 20 ]</text>
+      </navLabel>
+      <content src="ch087.xhtml#section-74" />
+    </navPoint>
+    <navPoint id="navPoint-88">
+      <navLabel>
+        <text>[ 21 ]</text>
+      </navLabel>
+      <content src="ch088.xhtml#section-75" />
+    </navPoint>
+    <navPoint id="navPoint-89">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு : பங்குனி</text>
+      </navLabel>
+      <content src="ch089.xhtml#பகத-பனனரணட-பஙகன" />
+    </navPoint>
+  </navMap>
+</ncx>

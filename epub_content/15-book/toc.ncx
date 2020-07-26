@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:b788be84-3f7f-4999-8f0c-2ad9dd7946e7" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>15-எழுதழல்</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>15-எழுதழல்</text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>ஒன்று : துயிலும் கனல் - 1</text>
+      </navLabel>
+      <content src="ch001.xhtml#ஒனறதயலமகனல--1" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>ன்று : துயிலும் கனல் - 2</text>
+      </navLabel>
+      <content src="ch002.xhtml#னறதயலமகனல--2" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>ஒன்று : துயிலும் கனல் - 3</text>
+      </navLabel>
+      <content src="ch003.xhtml#ஒனறதயலமகனல-3" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>ஒன்று : துயிலும் கனல் - 4</text>
+      </navLabel>
+      <content src="ch004.xhtml#ஒனற-தயலம-கனல--4" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>இரண்டு : கருக்கிருள் - 1</text>
+      </navLabel>
+      <content src="ch005.xhtml#இரணடகரககரள-1" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>இரண்டு : கருக்கிருள் - 2</text>
+      </navLabel>
+      <content src="ch006.xhtml#இரணடகரககரள-2" />
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>இரண்டு : கருக்கிருள் - 3</text>
+      </navLabel>
+      <content src="ch007.xhtml#இரணட-கரககரள---3" />
+    </navPoint>
+    <navPoint id="navPoint-8">
+      <navLabel>
+        <text>மூன்று : முகில்திரை - 1</text>
+      </navLabel>
+      <content src="ch008.xhtml#மனற-மகலதர---1" />
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>மூன்று : முகில்திரை - 2</text>
+      </navLabel>
+      <content src="ch009.xhtml#மனறமகலதர--2" />
+    </navPoint>
+    <navPoint id="navPoint-10">
+      <navLabel>
+        <text>மூன்று : முகில்திரை - 3</text>
+      </navLabel>
+      <content src="ch010.xhtml#மனறமகலதர--3" />
+    </navPoint>
+    <navPoint id="navPoint-11">
+      <navLabel>
+        <text>மூன்று : முகில்திரை - 4</text>
+      </navLabel>
+      <content src="ch011.xhtml#மனற-மகலதர---4" />
+    </navPoint>
+    <navPoint id="navPoint-12">
+      <navLabel>
+        <text>மூன்று : முகில்திரை - 5</text>
+      </navLabel>
+      <content src="ch012.xhtml#மனற-மகலதர---5" />
+    </navPoint>
+    <navPoint id="navPoint-13">
+      <navLabel>
+        <text>மூன்று : முகில்திரை – 6</text>
+      </navLabel>
+      <content src="ch013.xhtml#மனற-மகலதர-6" />
+    </navPoint>
+    <navPoint id="navPoint-14">
+      <navLabel>
+        <text>மூன்று : முகில்திரை - 7</text>
+      </navLabel>
+      <content src="ch014.xhtml#மனற-மகலதர---7" />
+    </navPoint>
+    <navPoint id="navPoint-15">
+      <navLabel>
+        <text>மூன்று : முகில்திரை – 8</text>
+      </navLabel>
+      <content src="ch015.xhtml#மனற-மகலதர-8" />
+    </navPoint>
+    <navPoint id="navPoint-16">
+      <navLabel>
+        <text>மூன்று : முகில்திரை - 9</text>
+      </navLabel>
+      <content src="ch016.xhtml#மனற-மகலதர---9" />
+    </navPoint>
+    <navPoint id="navPoint-17">
+      <navLabel>
+        <text>மூன்று : முகில்திரை - 10</text>
+      </navLabel>
+      <content src="ch017.xhtml#மனற-மகலதர---10" />
+    </navPoint>
+    <navPoint id="navPoint-18">
+      <navLabel>
+        <text>மூன்று : முகில்திரை - 11</text>
+      </navLabel>
+      <content src="ch018.xhtml#மனற-மகலதர---11" />
+    </navPoint>
+    <navPoint id="navPoint-19">
+      <navLabel>
+        <text>மூன்று : முகில்திரை - 12</text>
+      </navLabel>
+      <content src="ch019.xhtml#மனற-மகலதர---12" />
+    </navPoint>
+    <navPoint id="navPoint-20">
+      <navLabel>
+        <text>மூன்று : முகில்திரை - 13</text>
+      </navLabel>
+      <content src="ch020.xhtml#மனறமகலதர--13" />
+    </navPoint>
+    <navPoint id="navPoint-21">
+      <navLabel>
+        <text>மூன்று : முகில்திரை – 14</text>
+      </navLabel>
+      <content src="ch021.xhtml#மனறமகலதர-14" />
+    </navPoint>
+    <navPoint id="navPoint-22">
+      <navLabel>
+        <text>மூன்று : முகில்திரை – 15</text>
+      </navLabel>
+      <content src="ch022.xhtml#மனறமகலதர-15" />
+    </navPoint>
+    <navPoint id="navPoint-23">
+      <navLabel>
+        <text>நான்கு : ஆடலின் வண்ணங்கள் - 1</text>
+      </navLabel>
+      <content src="ch023.xhtml#நனக-ஆடலன-வணணஙகள---1" />
+    </navPoint>
+    <navPoint id="navPoint-24">
+      <navLabel>
+        <text>நான்கு : ஆடலின் வண்ணங்கள் - 2</text>
+      </navLabel>
+      <content src="ch024.xhtml#நனக-ஆடலன-வணணஙகள--2" />
+    </navPoint>
+    <navPoint id="navPoint-25">
+      <navLabel>
+        <text>நான்கு : ஆடலின் வண்ணங்கள் - 3</text>
+      </navLabel>
+      <content src="ch025.xhtml#நனக-ஆடலன-வணணஙகள---3" />
+    </navPoint>
+    <navPoint id="navPoint-26">
+      <navLabel>
+        <text>நான்கு : ஆடலின் வண்ணங்கள் - 4</text>
+      </navLabel>
+      <content src="ch026.xhtml#நனக-ஆடலன-வணணஙகள---4" />
+    </navPoint>
+    <navPoint id="navPoint-27">
+      <navLabel>
+        <text>நான்கு : ஆடலின் வண்ணங்கள் – 5</text>
+      </navLabel>
+      <content src="ch027.xhtml#நனக-ஆடலன-வணணஙகள-5" />
+    </navPoint>
+    <navPoint id="navPoint-28">
+      <navLabel>
+        <text>நான்கு : ஆடலின் வண்ணங்கள் - 6</text>
+      </navLabel>
+      <content src="ch028.xhtml#நனகஆடலனவணணஙகள--6" />
+    </navPoint>
+    <navPoint id="navPoint-29">
+      <navLabel>
+        <text>நான்கு : ஆடலின் வண்ணங்கள் - 7</text>
+      </navLabel>
+      <content src="ch029.xhtml#நனக-ஆடலன-வணணஙகள---7" />
+    </navPoint>
+    <navPoint id="navPoint-30">
+      <navLabel>
+        <text>நான்கு : ஆடலின் வண்ணங்கள் - 8</text>
+      </navLabel>
+      <content src="ch030.xhtml#நனக-ஆடலன-வணணஙகள---8" />
+    </navPoint>
+    <navPoint id="navPoint-31">
+      <navLabel>
+        <text>நான்கு : ஆடலின் வண்ணங்கள் - 9</text>
+      </navLabel>
+      <content src="ch031.xhtml#நனகஆடலனவணணஙகள--9" />
+    </navPoint>
+    <navPoint id="navPoint-32">
+      <navLabel>
+        <text>நான்கு : ஆடலின் வண்ணங்கள் - 10</text>
+      </navLabel>
+      <content src="ch032.xhtml#நனகஆடலனவணணஙகள--10" />
+    </navPoint>
+    <navPoint id="navPoint-33">
+      <navLabel>
+        <text>நான்கு : ஆடலின் வண்ணங்கள் - 11</text>
+      </navLabel>
+      <content src="ch033.xhtml#நனக-ஆடலன-வணணஙகள---11" />
+    </navPoint>
+    <navPoint id="navPoint-34">
+      <navLabel>
+        <text>ஐந்து : துலாநிலையின் ஆடல் - 1</text>
+      </navLabel>
+      <content src="ch034.xhtml#ஐநத-தலநலயன-ஆடல---1" />
+    </navPoint>
+    <navPoint id="navPoint-35">
+      <navLabel>
+        <text>ஐந்து : துலாநிலையின் ஆடல் - 2</text>
+      </navLabel>
+      <content src="ch035.xhtml#ஐநததலநலயனஆடல--2" />
+    </navPoint>
+    <navPoint id="navPoint-36">
+      <navLabel>
+        <text>ஐந்து : துலாநிலையின் ஆடல் - 3</text>
+      </navLabel>
+      <content src="ch036.xhtml#ஐநததலநலயனஆடல--3" />
+    </navPoint>
+    <navPoint id="navPoint-37">
+      <navLabel>
+        <text>ஐந்து : துலாநிலையின் ஆடல் – 4</text>
+      </navLabel>
+      <content src="ch037.xhtml#ஐநத-தலநலயன-ஆடல-4" />
+    </navPoint>
+    <navPoint id="navPoint-38">
+      <navLabel>
+        <text>ஐந்து : துலாநிலையின் ஆடல் - 5</text>
+      </navLabel>
+      <content src="ch038.xhtml#ஐநத-தலநலயன-ஆடல---5" />
+    </navPoint>
+    <navPoint id="navPoint-39">
+      <navLabel>
+        <text>ஐந்து : துலாநிலையின் ஆடல் – 6</text>
+      </navLabel>
+      <content src="ch039.xhtml#ஐநத-தலநலயன-ஆடல-6" />
+    </navPoint>
+    <navPoint id="navPoint-40">
+      <navLabel>
+        <text>ஆறு : காற்றின் சுடர் - 1</text>
+      </navLabel>
+      <content src="ch040.xhtml#ஆற-கறறன-சடர--1" />
+    </navPoint>
+    <navPoint id="navPoint-41">
+      <navLabel>
+        <text>ஆறு : காற்றின் சுடர் – 2</text>
+      </navLabel>
+      <content src="ch041.xhtml#ஆற-கறறன-சடர-2" />
+    </navPoint>
+    <navPoint id="navPoint-42">
+      <navLabel>
+        <text>ஆறு : காற்றின் சுடர் – 3</text>
+      </navLabel>
+      <content src="ch042.xhtml#ஆறகறறனசடர-3" />
+    </navPoint>
+    <navPoint id="navPoint-43">
+      <navLabel>
+        <text>ஆறு : காற்றின் சுடர் – 4</text>
+      </navLabel>
+      <content src="ch043.xhtml#ஆறகறறனசடர-4" />
+    </navPoint>
+    <navPoint id="navPoint-44">
+      <navLabel>
+        <text>ஆறு : காற்றின் சுடர் – 5</text>
+      </navLabel>
+      <content src="ch044.xhtml#ஆறகறறனசடர-5" />
+    </navPoint>
+    <navPoint id="navPoint-45">
+      <navLabel>
+        <text>ஆறு : காற்றின் சுடர் – 6</text>
+      </navLabel>
+      <content src="ch045.xhtml#ஆற-கறறன-சடர-6" />
+    </navPoint>
+    <navPoint id="navPoint-46">
+      <navLabel>
+        <text>ஆறு : காற்றின் சுடர் – 7</text>
+      </navLabel>
+      <content src="ch046.xhtml#ஆற-கறறன-சடர-7" />
+    </navPoint>
+    <navPoint id="navPoint-47">
+      <navLabel>
+        <text>ஏழு : துளியிருள் - 1</text>
+      </navLabel>
+      <content src="ch047.xhtml#ஏழ-தளயரள--1" />
+    </navPoint>
+    <navPoint id="navPoint-48">
+      <navLabel>
+        <text>ஏழு : துளியிருள் – 2</text>
+      </navLabel>
+      <content src="ch048.xhtml#ஏழ-தளயரள-2" />
+    </navPoint>
+    <navPoint id="navPoint-49">
+      <navLabel>
+        <text>ஏழு : துளியிருள் - 3</text>
+      </navLabel>
+      <content src="ch049.xhtml#ஏழ-தளயரள---3" />
+    </navPoint>
+    <navPoint id="navPoint-50">
+      <navLabel>
+        <text>ஏழு : துளியிருள் – 4</text>
+      </navLabel>
+      <content src="ch050.xhtml#ஏழ-தளயரள-4" />
+    </navPoint>
+    <navPoint id="navPoint-51">
+      <navLabel>
+        <text>ஏழு : துளியிருள் - 5</text>
+      </navLabel>
+      <content src="ch051.xhtml#ஏழ-தளயரள---5" />
+    </navPoint>
+    <navPoint id="navPoint-52">
+      <navLabel>
+        <text>ஏழு : துளியிருள் – 7</text>
+      </navLabel>
+      <content src="ch052.xhtml#ஏழதளயரள-7" />
+    </navPoint>
+    <navPoint id="navPoint-53">
+      <navLabel>
+        <text>ஏழு : துளியிருள் - 8</text>
+      </navLabel>
+      <content src="ch053.xhtml#ஏழதளயரள--8" />
+    </navPoint>
+    <navPoint id="navPoint-54">
+      <navLabel>
+        <text>ஏழு : துளியிருள் – 9</text>
+      </navLabel>
+      <content src="ch054.xhtml#ஏழ-தளயரள-9" />
+    </navPoint>
+    <navPoint id="navPoint-55">
+      <navLabel>
+        <text>ஏழு : துளியிருள் – 10</text>
+      </navLabel>
+      <content src="ch055.xhtml#ஏழ-தளயரள-10" />
+    </navPoint>
+    <navPoint id="navPoint-56">
+      <navLabel>
+        <text>ஏழு : துளியிருள் – 11</text>
+      </navLabel>
+      <content src="ch056.xhtml#ஏழ-தளயரள-11" />
+    </navPoint>
+    <navPoint id="navPoint-57">
+      <navLabel>
+        <text>ஏழு : துளியிருள் – 12</text>
+      </navLabel>
+      <content src="ch057.xhtml#ஏழ-தளயரள-12" />
+    </navPoint>
+    <navPoint id="navPoint-58">
+      <navLabel>
+        <text>ஏழு : துளியிருள் - 13</text>
+      </navLabel>
+      <content src="ch058.xhtml#ஏழ-தளயரள---13" />
+    </navPoint>
+    <navPoint id="navPoint-59">
+      <navLabel>
+        <text>ஏழு : துளியிருள் - 14</text>
+      </navLabel>
+      <content src="ch059.xhtml#ஏழ-தளயரள---14" />
+    </navPoint>
+    <navPoint id="navPoint-60">
+      <navLabel>
+        <text>ஏழு : துளியிருள் – 16</text>
+      </navLabel>
+      <content src="ch060.xhtml#ஏழ-தளயரள-16" />
+    </navPoint>
+    <navPoint id="navPoint-61">
+      <navLabel>
+        <text>ஏழு : துளியிருள் - 17</text>
+      </navLabel>
+      <content src="ch061.xhtml#ஏழதளயரள--17" />
+    </navPoint>
+    <navPoint id="navPoint-62">
+      <navLabel>
+        <text>ஏழு : துளியிருள் – 18</text>
+      </navLabel>
+      <content src="ch062.xhtml#ஏழதளயரள-18" />
+    </navPoint>
+    <navPoint id="navPoint-63">
+      <navLabel>
+        <text>ஏழு : துளியிருள் - 19</text>
+      </navLabel>
+      <content src="ch063.xhtml#ஏழ-தளயரள---19" />
+    </navPoint>
+    <navPoint id="navPoint-64">
+      <navLabel>
+        <text>ஏழு : துளியிருள் – 20</text>
+      </navLabel>
+      <content src="ch064.xhtml#ஏழ-தளயரள-20" />
+    </navPoint>
+    <navPoint id="navPoint-65">
+      <navLabel>
+        <text>ஏழு : துளியிருள் - 21</text>
+      </navLabel>
+      <content src="ch065.xhtml#ஏழ-தளயரள---21" />
+    </navPoint>
+    <navPoint id="navPoint-66">
+      <navLabel>
+        <text>ஏழு : துளியிருள் - 22</text>
+      </navLabel>
+      <content src="ch066.xhtml#ஏழதளயரள--22" />
+    </navPoint>
+    <navPoint id="navPoint-67">
+      <navLabel>
+        <text>ஏழு : துளியிருள் – 23</text>
+      </navLabel>
+      <content src="ch067.xhtml#ஏழ-தளயரள-23" />
+    </navPoint>
+    <navPoint id="navPoint-68">
+      <navLabel>
+        <text>ஏழு : துளியிருள் - 24</text>
+      </navLabel>
+      <content src="ch068.xhtml#ஏழ-தளயரள---24" />
+    </navPoint>
+    <navPoint id="navPoint-69">
+      <navLabel>
+        <text>ஏழு : துளியிருள் – 25</text>
+      </navLabel>
+      <content src="ch069.xhtml#ஏழதளயரள-25" />
+    </navPoint>
+    <navPoint id="navPoint-70">
+      <navLabel>
+        <text>ஏழு : துளியிருள் - 26</text>
+      </navLabel>
+      <content src="ch070.xhtml#ஏழதளயரள--26" />
+    </navPoint>
+    <navPoint id="navPoint-71">
+      <navLabel>
+        <text>எட்டு : குருதிவிதை – 4</text>
+      </navLabel>
+      <content src="ch071.xhtml#எடட-கரதவத-4" />
+    </navPoint>
+    <navPoint id="navPoint-72">
+      <navLabel>
+        <text>எட்டு : குருதிவிதை – 5</text>
+      </navLabel>
+      <content src="ch072.xhtml#எடடகரதவத-5" />
+    </navPoint>
+    <navPoint id="navPoint-73">
+      <navLabel>
+        <text>எட்டு : குருதிவிதை – 6</text>
+      </navLabel>
+      <content src="ch073.xhtml#எடட-கரதவத-6" />
+    </navPoint>
+    <navPoint id="navPoint-74">
+      <navLabel>
+        <text>எட்டு : குருதிவிதை – 7</text>
+      </navLabel>
+      <content src="ch074.xhtml#எடட-கரதவத-7" />
+    </navPoint>
+    <navPoint id="navPoint-75">
+      <navLabel>
+        <text>எட்டு : குருதிவிதை - 8</text>
+      </navLabel>
+      <content src="ch075.xhtml#எடடகரதவத--8" />
+    </navPoint>
+    <navPoint id="navPoint-76">
+      <navLabel>
+        <text>எட்டு : குருதிவிதை - 9</text>
+      </navLabel>
+      <content src="ch076.xhtml#எடடகரதவத--9" />
+    </navPoint>
+    <navPoint id="navPoint-77">
+      <navLabel>
+        <text>எட்டு : குருதிவிதை - 10</text>
+      </navLabel>
+      <content src="ch077.xhtml#எடட-கரதவத---10" />
+    </navPoint>
+    <navPoint id="navPoint-78">
+      <navLabel>
+        <text>ஏழு : துளியிருள் - 6</text>
+      </navLabel>
+      <content src="ch078.xhtml#ஏழ-தளயரள---6" />
+    </navPoint>
+  </navMap>
+</ncx>

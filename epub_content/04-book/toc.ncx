@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:5e7e0534-6171-4e87-9a19-422db0c46ea4" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>04-நீலம்</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>04-நீலம்</text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>திருப்பல்லாண்டு</text>
+      </navLabel>
+      <content src="ch001.xhtml#தரபபலலணட" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>பகுதி ஒன்று : மணி நீல மலர்க்கடம்பு</text>
+      </navLabel>
+      <content src="ch002.xhtml#பகத-ஒனற-மண-நல-மலரககடமப" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>முகிழ்முலை கனிதல்</text>
+      </navLabel>
+      <content src="ch003.xhtml#மகழமல-கனதல" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>பகுதி இரண்டு: 1. சொல்லெழுதல்</text>
+      </navLabel>
+      <content src="ch004.xhtml#பகத-இரணட-1.-சலலழதல" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>பகுதி இரண்டு: 2. பொருளவிழ்தல்</text>
+      </navLabel>
+      <content src="ch005.xhtml#பகத-இரணட-2.-பரளவழதல" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>பகுதி இரண்டு: 3. அனலெழுதல்</text>
+      </navLabel>
+      <content src="ch006.xhtml#பகத-இரணட-3.-அனலழதல" />
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>பகுதி மூன்று: 1. பெயரறிதல்</text>
+      </navLabel>
+      <content src="ch007.xhtml#பகத-மனற-1.-பயரறதல" />
+    </navPoint>
+    <navPoint id="navPoint-8">
+      <navLabel>
+        <text>பகுதி மூன்று: 2. பெயராதல்</text>
+      </navLabel>
+      <content src="ch008.xhtml#பகதமனற-2.-பயரதல" />
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>பகுதி நான்கு: 1. செழுங்குருதி</text>
+      </navLabel>
+      <content src="ch009.xhtml#பகத-நனக-1.-சழஙகரத" />
+    </navPoint>
+    <navPoint id="navPoint-10">
+      <navLabel>
+        <text>பகுதி நான்கு: 2. பாலாழி</text>
+      </navLabel>
+      <content src="ch010.xhtml#பகத-நனக-2.-பலழ" />
+    </navPoint>
+    <navPoint id="navPoint-11">
+      <navLabel>
+        <text>பகுதி நான்கு: 3. சுழலாழி</text>
+      </navLabel>
+      <content src="ch011.xhtml#பகத-நனக-3.-சழலழ" />
+    </navPoint>
+    <navPoint id="navPoint-12">
+      <navLabel>
+        <text>பகுதி ஐந்து: 1. பீலிவிழி</text>
+      </navLabel>
+      <content src="ch012.xhtml#பகத-ஐநத1.பலவழ" />
+    </navPoint>
+    <navPoint id="navPoint-13">
+      <navLabel>
+        <text>பகுதி ஐந்து: 2. நறுவெண்ணை</text>
+      </navLabel>
+      <content src="ch013.xhtml#பகத-ஐநத-2.நறவணண" />
+    </navPoint>
+    <navPoint id="navPoint-14">
+      <navLabel>
+        <text>பகுதி ஐந்து: 3. வேய்குழல்</text>
+      </navLabel>
+      <content src="ch014.xhtml#பகத-ஐநத-3.-வயகழல" />
+    </navPoint>
+    <navPoint id="navPoint-15">
+      <navLabel>
+        <text>பகுதி ஐந்து: 4. ஏழுலகு</text>
+      </navLabel>
+      <content src="ch015.xhtml#பகத-ஐநத-4.-ஏழலக" />
+    </navPoint>
+    <navPoint id="navPoint-16">
+      <navLabel>
+        <text>பகுதி ஆறு: 1. நீர்மரம் பூத்தல்</text>
+      </navLabel>
+      <content src="ch016.xhtml#பகத-ஆற-1.-நரமரம-பததல" />
+    </navPoint>
+    <navPoint id="navPoint-17">
+      <navLabel>
+        <text>பகுதி ஆறு: 2. நெருப்பரவம் அணைதல்</text>
+      </navLabel>
+      <content src="ch017.xhtml#பகத-ஆற-2.-நரபபரவம-அணதல" />
+    </navPoint>
+    <navPoint id="navPoint-18">
+      <navLabel>
+        <text>பகுதி ஆறு: 3. வான்சூழ் சிறுமலர்</text>
+      </navLabel>
+      <content src="ch018.xhtml#பகத-ஆற-3.-வனசழ-சறமலர" />
+    </navPoint>
+    <navPoint id="navPoint-19">
+      <navLabel>
+        <text>பகுதி ஏழு: 1. ஆடை நெகிழ்தல்</text>
+      </navLabel>
+      <content src="ch019.xhtml#பகத-ஏழ-1.-ஆட-நகழதல" />
+    </navPoint>
+    <navPoint id="navPoint-20">
+      <navLabel>
+        <text>பகுதி ஏழு: 2. அகம் அழிதல்</text>
+      </navLabel>
+      <content src="ch020.xhtml#பகத-ஏழ-2.-அகம-அழதல" />
+    </navPoint>
+    <navPoint id="navPoint-21">
+      <navLabel>
+        <text>பகுதி ஏழு: 3. அதுவாதல்</text>
+      </navLabel>
+      <content src="ch021.xhtml#பகத-ஏழ-3.-அதவதல" />
+    </navPoint>
+    <navPoint id="navPoint-22">
+      <navLabel>
+        <text>பகுதி எட்டு: 1. சொல்லாயிரம்</text>
+      </navLabel>
+      <content src="ch022.xhtml#பகத-எடட-1.-சலலயரம" />
+    </navPoint>
+    <navPoint id="navPoint-23">
+      <navLabel>
+        <text>பகுதி எட்டு: 2. பொருள் ஒன்று</text>
+      </navLabel>
+      <content src="ch023.xhtml#பகத-எடட-2.-பரள-ஒனற" />
+    </navPoint>
+    <navPoint id="navPoint-24">
+      <navLabel>
+        <text>பகுதி எட்டு: 3. ஒன்றே அது</text>
+      </navLabel>
+      <content src="ch024.xhtml#பகதஎடட3.ஒனறஅத" />
+    </navPoint>
+    <navPoint id="navPoint-25">
+      <navLabel>
+        <text>பகுதி ஒன்பது: 1. அணிபுனைதல்</text>
+      </navLabel>
+      <content src="ch025.xhtml#பகத-ஒனபத-1.-அணபனதல" />
+    </navPoint>
+    <navPoint id="navPoint-26">
+      <navLabel>
+        <text>பகுதி ஒன்பது: 2. காத்திருத்தல்</text>
+      </navLabel>
+      <content src="ch026.xhtml#பகத-ஒனபத2.கததரததல" />
+    </navPoint>
+    <navPoint id="navPoint-27">
+      <navLabel>
+        <text>பகுதி ஒன்பது: 3. கருத்தழிதல்</text>
+      </navLabel>
+      <content src="ch027.xhtml#பகத-ஒனபத-3.-கரததழதல" />
+    </navPoint>
+    <navPoint id="navPoint-28">
+      <navLabel>
+        <text>பகுதி பத்து: 2. விழி</text>
+      </navLabel>
+      <content src="ch028.xhtml#பகத-பதத-2.-வழ" />
+    </navPoint>
+    <navPoint id="navPoint-29">
+      <navLabel>
+        <text>பகுதி பதினொன்று: 1. குவிதல்</text>
+      </navLabel>
+      <content src="ch029.xhtml#பகத-பதனனற-1.-கவதல" />
+    </navPoint>
+    <navPoint id="navPoint-30">
+      <navLabel>
+        <text>பகுதி பதினொன்று: 2. குலைதல்</text>
+      </navLabel>
+      <content src="ch030.xhtml#பகத-பதனனற-2.-கலதல" />
+    </navPoint>
+    <navPoint id="navPoint-31">
+      <navLabel>
+        <text>பகுதி பதினொன்று: 3. குமிழ்தல்</text>
+      </navLabel>
+      <content src="ch031.xhtml#பகத-பதனனற-3.-கமழதல" />
+    </navPoint>
+    <navPoint id="navPoint-32">
+      <navLabel>
+        <text>பகுதி பதினொன்று: 4. அழிதல்</text>
+      </navLabel>
+      <content src="ch032.xhtml#பகதபதனனற-4.அழதல" />
+    </navPoint>
+    <navPoint id="navPoint-33">
+      <navLabel>
+        <text>பகுதி பதினொன்று: 4. அழிதல் [தொடர்ச்சி]</text>
+      </navLabel>
+      <content src="ch033.xhtml#பகதபதனனற-4.அழதலதடரசச" />
+    </navPoint>
+    <navPoint id="navPoint-34">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு: 1. முடி</text>
+      </navLabel>
+      <content src="ch034.xhtml#பகத-பனனரணட-1.-மட" />
+    </navPoint>
+    <navPoint id="navPoint-35">
+      <navLabel>
+        <text>பகுதி பன்னிரண்டு: 2. முடி</text>
+      </navLabel>
+      <content src="ch035.xhtml#பகத-பனனரணட-2.-மட" />
+    </navPoint>
+    <navPoint id="navPoint-36">
+      <navLabel>
+        <text>வண்ணக்கடல் எழுதத் தொடங்கும்போது அதில் கிருஷ்ணனின் கதையும் வந்துவிடும் என்றே நினைத்தேன். வண்ணக்கடல் என்னும் தலைப்புக்கே அந்த நோக்கம் இருந்தது. ஆனால் அந்தக் கட்டமைப்புக்குள் கண்ணன் வரமுடியாது என்பது போகப்போகத் தெரிந்தது.</text>
+      </navLabel>
+      <content src="ch036.xhtml#வணணககடல-எழதத-தடஙகமபத-அதல-கரஷணனன-கதயம-வநதவடம-எனற-நனததன.-வணணககடல-எனனம-தலபபகக-அநத-நககம-இரநதத.-ஆனல-அநதக-கடடமபபககள-கணணன-வரமடயத-எனபத-பகபபகத-தரநதத." />
+    </navPoint>
+  </navMap>
+</ncx>
