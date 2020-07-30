@@ -21,7 +21,7 @@ func handler(request events.APIGatewayProxyRequest) (events.APIGatewayProxyRespo
 	buf := bytes.NewBuffer(nil)
 
 	for _, file := range files {
-		buf.WriteString(file.Name() + "\n")
+		buf.WriteString(file.Name() + "\n----adding file name to file----------\n")
 	}
 
 	return events.APIGatewayProxyResponse{
