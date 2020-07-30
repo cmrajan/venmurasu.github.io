@@ -2,13 +2,41 @@ package main
 
 import (
 	"bytes"
+	"fmt"
 	"io/ioutil"
 
 	"github.com/aws/aws-lambda-go/events"
 	"github.com/aws/aws-lambda-go/lambda"
+	"github.com/blevesearch/bleve"
 )
 
 func handler(request events.APIGatewayProxyRequest) (events.APIGatewayProxyResponse, error) {
+
+	mapping := bleve.NewIndexMapping()
+	index, err := bleve.New("example.bleve", mapping)
+	if err != nil {
+		fmt.Println(err)
+
+	}
+
+	data := struct {
+		Name string
+	}{
+		Name: "text",
+	}
+
+	// index some data
+	index.Index("id", data)
+
+	// search for some text
+	query := bleve.NewMatchQuery("text")
+	search := bleve.NewSearchRequest(query)
+	searchResults, err := index.Search(search)
+	if err != nil {
+		fmt.Println(err)
+
+	}
+	fmt.Println(searchResults)
 
 	files, err := ioutil.ReadDir(".")
 	if err != nil {
@@ -21,7 +49,7 @@ func handler(request events.APIGatewayProxyRequest) (events.APIGatewayProxyRespo
 	buf := bytes.NewBuffer(nil)
 
 	for _, file := range files {
-		buf.WriteString(file.Name() + "\n----adding file name to file----------\n")
+		buf.WriteString(file.Name() + "\n----search results----------\n" + fmt.Sprintln(searchResults) + "\n----search results----------\n")
 	}
 
 	return events.APIGatewayProxyResponse{
