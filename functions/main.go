@@ -2,9 +2,10 @@ package main
 
 import (
 	"bytes"
+	"io/ioutil"
+
 	"github.com/aws/aws-lambda-go/events"
 	"github.com/aws/aws-lambda-go/lambda"
-	"io/ioutil"
 )
 
 func handler(request events.APIGatewayProxyRequest) (events.APIGatewayProxyResponse, error) {
@@ -18,7 +19,6 @@ func handler(request events.APIGatewayProxyRequest) (events.APIGatewayProxyRespo
 	}
 
 	buf := bytes.NewBuffer(nil)
-
 
 	for _, file := range files {
 		buf.WriteString(file.Name() + "\n")
