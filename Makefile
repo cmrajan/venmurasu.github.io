@@ -11,7 +11,7 @@ build:
 	# zip -rj functions/h2.zip functions/h2
 	zip -rj functions/example.bleve.zip functions/example.bleve
 	unzip -l functions/example.bleve.zip
-	rm -r functions/h2
+	#rm -r functions/h2
 	ls functions
 	ls functions/example.bleve
 	#ls functions/example.bleve/example.bleve
