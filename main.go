@@ -12,21 +12,29 @@ import (
 
 func handler(request events.APIGatewayProxyRequest) (events.APIGatewayProxyResponse, error) {
 
-	mapping := bleve.NewIndexMapping()
-	index, err := bleve.New("example.bleve", mapping)
+	//	mapping := bleve.NewIndexMapping()
+	index, err := bleve.OpenUsing("example.bleve", map[string]interface{}{
+		"read_only": true,
+	})
 	if err != nil {
 		fmt.Println(err)
 
 	}
 
-	data := struct {
-		Name string
-	}{
-		Name: "text",
-	}
+	// index, err := bleve.New("example.bleve", mapping)
+	// if err != nil {
+	// 	fmt.Println(err)
 
-	// index some data
-	index.Index("id", data)
+	// }
+
+	// data := struct {
+	// 	Name string
+	// }{
+	// 	Name: "text",
+	// }
+
+	// // index some data
+	// index.Index("id", data)
 
 	// search for some text
 	query := bleve.NewMatchQuery("text")
@@ -61,4 +69,5 @@ func handler(request events.APIGatewayProxyRequest) (events.APIGatewayProxyRespo
 func main() {
 	// Make the handler available for Remote Procedure Call by AWS Lambda
 	lambda.Start(handler)
+
 }
